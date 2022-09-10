@@ -1,5 +1,4 @@
 package com.bitacora.bitacora.documents;
-
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Pattern;
 import org.springframework.data.annotation.Id;
